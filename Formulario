@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Formulario de Clientes</title>
+<link rel="stylesheet" type="text/css" href="formulario.css">
+</head>
+
+<body>
+	<h1 align="center">Formulario de los clientes</h1>
+<form action="" method="get"> 
+<p>
+	Nombre: <input type="text" name="name_control" autofocus required />
+</p>
+
+<p> 
+	Correo electronico: <input type="email" name="email_control"  autofocus required/>
+</p>
+
+<p>
+	Fecha y hora: <input type="datetime" name="datetime_control" />
+</p>
+
+<p>
+	Mes: <input type="month" name="month_control" />
+</p>
+
+<p>
+	Semana: <input type="tel" name="tel_control"/>
+</p>
+
+<p>
+	Telefono: <input type="tel" name="tel_control" />
+</p>
+
+
+<p>
+	Auto movil: <input type="Auto" name="Auto_control" />
+</p>
+
+<p>
+	<input type="submit" value="Enviar" />
+</p>
+</form>
+</body>
+</html>
