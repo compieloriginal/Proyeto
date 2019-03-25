@@ -1,0 +1,108 @@
+<html lang="en" dir="ltr"><head>
+   <style>
+	   h3{color:white}
+   </style>
+    <meta charset="utf-8">
+    <title>pagina de autos</title>
+
+    <link rel="stylesheet" href="examen.css">
+    <style>
+      a:hover {
+      background-color: red;
+}
+    </style>
+  </head>
+  <body>
+    <div class="contenedor">
+      <header>
+        <div class="logo">
+<div><img src="Volkswagen.png" alt="logo" height="100">
+         <img src="Audi.png"  height="100" aling="center">
+         <img src="Seat.png" height="100" align="right"></div>
+          <h1 align="center">Servicios de autos Toningas</h1>
+       
+		
+</div>
+        <nav class="navegacion">
+          <blockquote>
+						<div id="navegacion">
+				      <ul id="lista">
+				        <li><a href="">Inicio</a>
+				        </li>
+
+				        <li><a href="">Servicios</a>
+				          <ul>
+				            <li><a href="">Ayuda a clientes</a></li>
+				          </ul>
+				        </li>
+						<li><a href ="">Registrate ;)</a>
+			        <ul>
+			        <li><a href="file:///E:/Papginas%20web/registro.html">Registro cliente</a></li>
+			        </ul>
+			    </li>
+				        <li><a href="">Autos servicios</a>
+				          <ul>
+				            <li><a href="">Automovil</a></li>
+				    </ul>
+				    </li>
+          </blockquote>
+        </nav>
+
+      </header>
+      <img src="bagatti.jpg" width="100%" height="100%" alt=""/ opacity="20%">
+      <main class="contenido-principal">
+        <section>
+          <nav class="menu">
+    </main></div>
+    <div class="content">
+
+      <h1></h1>
+      <p></p>
+    </div>
+     <h2 color="white" align="center">Autos con nuestro servicio hecho</h2>
+    <br><br>
+    <div class="slider">
+			<ul>
+				<li>
+  <img src="ima1.jpg">
+ </li>
+				<li>
+  <img src="ima2.jpg">
+</li>
+				<li>
+  <img src="ima3.jpg">
+</li>
+				<li>
+  <img src="ima4.jpg">
+</li>
+
+			</ul>
+		</div>
+		<head class="redes">
+		<div class="imagenes">
+			  <div class="imagenes" id="uno">
+			<img class="icon" src="instagram.png">
+			<p class="texto">Instagram</p>
+		</div>
+		
+		<div class="imagenes" id="dos">
+			<img class="icon" src="facebook.png">
+			<p class="texto">Facebook</p>
+		</div>
+		
+		<div class="imagenes" id="trees">
+			<img class="icon" src="gorjeo.png">
+			<p class="texto">Twitter</p>
+		</div>
+		</div>
+	</head>
+    
+    </div>
+    <footer>
+<div class="nosotros">
+		<h5 class="copy" align="center">Servicios de autos en internet.</h5>
+    </footer>
+
+
+</body>
+</html>
