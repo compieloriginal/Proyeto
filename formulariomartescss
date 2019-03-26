@@ -1,0 +1,14 @@
+body{
+	background-image: url(fondochido.jpg) ;
+}
+nav.navegacion{
+  float:left;
+width: 100%;
+   text-align: left;
+  list-style: none;
+
+  list-style: none;
+  color: #022758;
+  background: none;
+
+}
